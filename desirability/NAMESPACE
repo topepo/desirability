@@ -1,0 +1,42 @@
+export(
+   dMax,
+   dMin,
+   dTarget,
+   dArb,
+   dBox,
+   dOverall,
+   dMax.default,
+   dMin.default,
+   dTarget.default,
+   dArb.default,
+   dBox.default,
+   dOverall.default)
+   
+S3method(dMax,     default)
+S3method(dMin,     default)
+S3method(dTarget,  default)
+S3method(dArb,     default)
+S3method(dBox,     default)
+S3method(dOverall, default)
+
+S3method(print, dMax)
+S3method(print, dMin)
+S3method(print, dTarget)
+S3method(print, dArb)
+S3method(print, dBox)
+S3method(print, dOverall)
+
+S3method(plot, dMax)
+S3method(plot, dMin)
+S3method(plot, dTarget)
+S3method(plot, dArb)
+S3method(plot, dBox)
+
+S3method(predict, dMax)
+S3method(predict, dMin)
+S3method(predict, dTarget)
+S3method(predict, dArb)
+S3method(predict, dBox)
+S3method(predict, dOverall)
+
+
