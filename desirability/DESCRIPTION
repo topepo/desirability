@@ -1,7 +1,7 @@
 Package: desirability
-Version: 1.8
-Date: 2015-03-07
-Title: Desirabiliy Function Optimization and Ranking
+Version: 1.9
+Date: 2015-03-08
+Title: Desirability Function Optimization and Ranking 
 Author: Max Kuhn
 Description: S3 classes for multivariate optimization using the desirability function by Derringer and Suich (1980).
 Maintainer: Max Kuhn <Max.Kuhn@pfizer.com>

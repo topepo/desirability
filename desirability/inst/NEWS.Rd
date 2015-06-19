@@ -3,7 +3,7 @@
 \newcommand{\cpkg}{\href{http://CRAN.R-project.org/package=#1}{\pkg{#1}}}
 
 
-\section{Changes in version 1.8}{
+\section{Changes in version 1.9}{
 \itemize{
 \item Fixed bugs in most of the \code{predict} functions related to the \code{tol} argument
 }
