@@ -1,7 +1,13 @@
 \name{NEWS}
 \title{News for Package \pkg{desirability}}
-\newcommand{\cpkg}{\href{http://CRAN.R-project.org/package=#1}{\pkg{#1}}}
+\newcommand{\cpkg}{\href{https://cran.r-project.org/package=#1}{\pkg{#1}}}
 
+
+\section{Changes in version 2.1}{
+\itemize{
+\item Changed maintainer email
+}
+}
 
 \section{Changes in version 1.9}{
 \itemize{
